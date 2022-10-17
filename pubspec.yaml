@@ -1,0 +1,12 @@
+name: Task_1_5
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  test: ^1.21.6
+  vector_math: ^2.1.4
+  mockito: ^5.3.2
+
+dev_dependencies:
+  build_runner: ^2.3.0
