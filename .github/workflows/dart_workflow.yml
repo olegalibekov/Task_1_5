@@ -7,7 +7,7 @@ name: Dart
 
 on:
   push:
-    branches: [ "task_done-1_5", "task-1_5" ]
+    branches: [ "task_done-1_5" ]
   pull_request:
     branches: [ "task_done-1_5" ]
 
