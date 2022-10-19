@@ -5,7 +5,6 @@ class UObject implements UObjectInterface {
 
   @override
   getProperty(String key) {
-    // return _properties.containsKey(key) ? _properties[key] : null;
     return _properties[key];
   }
 
